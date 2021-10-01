@@ -6,7 +6,7 @@ Requests the customer, Architect and Contractor's personal details such as Full 
 Request the project details such as Project number, Project name if the is no project name then the building type and customer surname will be used. Also Building type e.g House, Apartment, Store etc. Project address, ERF number, Project fee, Amount paid and Project deadline which will be stored in an object of class Project.\
 \
 The project details are updated for the duration of the project. The user can choose to edit the Contractor's contact details, the project deadline or update the amount paid.\
-Editing the contractor's contact details changes can be made to their Email and Telephone number. A new project deadline can be given and with every payment the amount paid to the completionof the project is updated until it's fully paid.\
+Editing the contractor's contact details changes can be made to their Email and Telephone number. A new project deadline can be given and with every payment the amount paid to the completion of the project is updated until it's fully paid.\
 \
 The customer is able to receive an invoice if they haven't fully paid the project fee, the invoice will contain the customer's name, email, address, telephone number and the outstanding amount, that's if they choose to receive the invoice.\
 But if the customer fully paid the prject they don't get the invoice, instead they receive a message with the date they fully paid the amount on.\
