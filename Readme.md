@@ -1,4 +1,4 @@
-#Capstone_4_Poised\
+Poised\
 Program calculates the costs of a building project for a customer and tracks those involved till completion.\
 \
 Requests the customer, Architect and Contractor's personal details such as Full name, Email, Address and Telephone number and save those details in an object for class Person.\
